@@ -1,0 +1,20 @@
+Base Functional App Requirements (75/100)
+1. Program presents a file dialog to the user to select a PDF file to read
+2. Support resume/pause functionality such that playback of the file may be
+paused and resumed at any time.
+3. Support Stop/Load functionality such that the playback can be stopped and
+another file loaded.
+4. User Interface is to be graphical in nature with buttons, dropdowns, dialogs, etc.,
+That said the design is open to the student’s own wishes.
+5. Code should be commented at a developer’s level
+
+Options (max 25 points):
+1. Support multiple voices (10 points) 
+2. Dark/Light UI selection (10 points):)
+3. Play and Remaining Time Display (10 points) :)
+4. Slider to go forward and backward in playback (10 points) :)
+5. Display Current File (10 points) :)
+6. Drag-n-Drop File Reading (15 points)
+7. A Feature of Your Choosing (10 points – subject to my approval. Ask before
+working on it!)
+
